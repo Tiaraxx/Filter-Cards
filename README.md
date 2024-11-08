@@ -19,9 +19,6 @@ This project is a card gallery showcasing Harry Styles' albums with visual effec
 ## 📸 Preview Main screen
   ![Captura de pantalla (9)](https://github.com/user-attachments/assets/62dfd185-eb2a-4d8e-8fc7-c71d701b335b)
   
-## 🚀 Installation
-Clone this repository:
-git clone https://github.com/youruser/Harry-Styles-Albums.git
 
 ## 📋 Code Details
 - HTML:  Gallery structure, each card contains a background image, album name, and its release year.
